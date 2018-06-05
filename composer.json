@@ -1,12 +1,12 @@
 {
-    "name": "jan-dolata/crude-crud",
+    "name": "ajss/crude-crud",
     "type": "library",
     "description": "Crude CRUD for Laravel",
     "keywords": [
-        "jan-dolata",
+        "ajss",
         "crude-crud"
     ],
-    "homepage": "https://github.com/jan-dolata/crude-crud",
+    "homepage": "https://github.com/ajss/crude-crud",
     "license": "MIT",
     "authors": [
         {

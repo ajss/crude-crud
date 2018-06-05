@@ -11,6 +11,7 @@
     "bootstrap-sass": "^3.3.6",
     "dropzone": "^4.3.0",
     "font-awesome": "^4.6.1",
+    "gulp-install": "^1.1.0",
     "jquery": "^2.2.3",
     "jquery-ui-bundle": "^1.11.4",
     "markdown-it": "^7.0.0",
@@ -28,7 +29,7 @@
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jan-dolata/crude-crud.git"
+    "url": "git+https://github.com/ajss/crude-crud.git"
   },
   "keywords": [
     "CRUD"
@@ -36,7 +37,7 @@
   "author": "Jan Dolata",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jan-dolata/crude-crud/issues"
+    "url": "https://github.com/ajss/crude-crud/issues"
   },
-  "homepage": "https://github.com/jan-dolata/crude-crud#readme"
+  "homepage": "https://github.com/ajss/crude-crud#readme"
 }
