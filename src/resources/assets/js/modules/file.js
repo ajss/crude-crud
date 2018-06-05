@@ -80,6 +80,7 @@ Crude.Views.FileModule = Crude.Views.Module.extend(
                                 crudeName   : that.setup.getName()
                             },
                             success: function(response){
+                                that.dropzone.options.maxFiles++;
                                 updateModelFiles(response.model.files);
 
                                 Crude.vent.trigger('action_update', that.setup.getName());
